@@ -27,6 +27,7 @@ public class Challenge01 {
             sum += arr[n - 1 - j] * Math.pow(2, j);
         }
         System.out.println("DEcimal:"+sum);
+        System.out.print("Apple");
         sc.close();
     }
 }
