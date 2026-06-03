@@ -1,4 +1,3 @@
-
 //CONVERT BINARY INTO DECIMAL,OCTAL,HEXADECIMAL
 
 import java.util.Scanner;
@@ -21,7 +20,6 @@ public class Challange02 {
         
         sc.close();
     }
-    
 }
 
 
